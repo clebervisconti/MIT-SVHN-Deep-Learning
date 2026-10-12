@@ -1,0 +1,26 @@
+# Data (never commit the SVHN dataset)
+/data/
+*.h5
+
+# Python / venv
+.venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
+# Matplotlib font cache
+.mplcache/
+
+# Notebook build/execution helper scripts (not part of deliverables)
+.build_notebook.py
+.run_pass.py
+
+# Model checkpoints / logs
+*.keras
+*.h5.tmp
+logs/

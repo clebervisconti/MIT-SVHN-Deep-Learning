@@ -1,0 +1,10 @@
+tensorflow==2.19.1
+tensorflow-metal==1.2.0
+numpy
+pandas
+h5py
+matplotlib
+seaborn
+scikit-learn
+jupyter
+nbconvert
